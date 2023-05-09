@@ -1,0 +1,44 @@
+main,.pokedex{
+ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+  align-items: center;
+  
+}
+header{
+  display: flex;
+  flex-direction: column;
+ justify-content: center;
+  align-items: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ 
+ background-color: rgba(248, 120, 0, 0.39);
+ 
+
+}
+
+
+
+body{
+    background-color: rgb(245, 168, 74);
+}
+.container{
+ 
+}
+.section{
+   font-size: 20px ;
+   
+   
+       
+  }
+
+   footer{
+      background-color: rgb(241, 193, 130);
+      
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+       align-items: center;
+      
+   }
